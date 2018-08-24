@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project3_Tourism</string>
+    <string name="monuments">MONUMENTS</string>
+    <string name="museums">MUSEUMS</string>
+    <string name="restaurants">RESTAURANTS</string>
+    <string name="parks">PARKS</string>
+    <string name="ques1">What Would You Like To Explore?</string>
+    <string name="delhi_tour">Delhi Tourism</string>
+    <string name="science_museum">National Science Museum</string>
+    <string name="rail_museum">Railway Museum</string>
+    <string name="air_force_museum">Air-Force Museum</string>
+    <string name="craft_museum">Craft Museum</string>
+</resources>
