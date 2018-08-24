@@ -1,4 +1,4 @@
-#Fri Aug 24 14:38:32 IST 2018
-base.0=C\:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project3_Tourism\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\62
+#Fri Aug 24 21:15:55 IST 2018
+base.0=C\:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project3_Tourism\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\79
 path.0=classes.dex
 renamed.0=classes.dex

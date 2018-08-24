@@ -4,17 +4,7 @@
             "outputFile": "C:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project3_Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shruti Bihani\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a5c78d5d4e24ee166d2482827c8081c3\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Shruti Bihani\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33f9d97e6be4b2216b2a6b56224b95fb\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Shruti Bihani\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4cddcbdae03d498432a8a29eb4f6524e\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Shruti Bihani\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\56b83e6b6a1a1cb6fde0c72c8f97f6ee\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
